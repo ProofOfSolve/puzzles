@@ -1,0 +1,49 @@
+{
+  "about": "Public record of ProofOfSolve puzzles. fingerprint = SHA-256(salt + answer). The answer is the 12 seed words in lowercase with single spaces. Each salt and answer is published here after its puzzle is solved and paid out.",
+  "site": "https://proofofsolve.com",
+  "puzzles": [
+    {
+      "id": "meridian",
+      "number": 1,
+      "title": "Meridian, Mississippi",
+      "kind": "free",
+      "opens_at": "2026-10-24T11:00:00Z",
+      "address": "bc1qphjz3cxsj8ls498uker4l703cqpg3fqx2g8tza",
+      "fingerprint": "f5398c3db138e13a56cbff7bd697aa6031f249d345e48bb95059bb534e7559ef",
+      "status": "upcoming",
+      "answer": null,
+      "salt": null,
+      "winner": null,
+      "payout_txid": null
+    },
+    {
+      "id": "mount-vernon",
+      "number": 2,
+      "title": "Mount Vernon, Virginia",
+      "kind": "free",
+      "opens_at": "2026-10-24T11:00:00Z",
+      "address": "bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut",
+      "fingerprint": "d59268255545de753d9a4c00fb1bcdc7015e0b46fd337f5ba21a051ad89440a7",
+      "status": "upcoming",
+      "answer": null,
+      "salt": null,
+      "winner": null,
+      "payout_txid": null
+    },
+    {
+      "id": "alcatraz",
+      "number": 3,
+      "title": "Alcatraz Island",
+      "kind": "paid",
+      "entry_price": "$10",
+      "opens_at": "2026-10-24T11:00:00Z",
+      "address": "bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4",
+      "fingerprint": "5b9434ac8b5decbff40bd3e09d29d21446f866bf580d4415cef0de9703b54fe0",
+      "status": "upcoming",
+      "answer": null,
+      "salt": null,
+      "winner": null,
+      "payout_txid": null
+    }
+  ]
+}
