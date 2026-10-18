@@ -5,7 +5,7 @@
     {
       "id": "meridian",
       "number": 1,
-      "title": "Meridian",
+      "title": "Meridian, Mississippi",
       "kind": "free",
       "opens_at": "2026-10-24T11:00:00Z",
       "address": "bc1qphjz3cxsj8ls498uker4l703cqpg3fqx2g8tza",
@@ -36,7 +36,7 @@
       "title": "Alcatraz Island",
       "kind": "paid",
       "entry_price": "$10",
-      "opens_at": "2026-10-24T11:00:00Z",
+      "opens_at": "2026-10-31T11:00:00Z",
       "address": "bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4",
       "fingerprint": "5b9434ac8b5decbff40bd3e09d29d21446f866bf580d4415cef0de9703b54fe0",
       "status": "upcoming",
