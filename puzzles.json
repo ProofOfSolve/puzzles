@@ -44,6 +44,21 @@
       "salt": null,
       "winner": null,
       "payout_txid": null
+    },
+    {
+      "id": "lafayette",
+      "number": 4,
+      "title": "Lafayette, Louisiana",
+      "kind": "paid",
+      "entry_price": "$5",
+      "opens_at": "2026-10-31T11:00:00Z",
+      "address": "bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa",
+      "fingerprint": "0acb960d15fe0b59e46e4e31c6f8aa749435b9f608b479dc313481ba1fa7a924",
+      "status": "upcoming",
+      "answer": null,
+      "salt": null,
+      "winner": null,
+      "payout_txid": null
     }
   ]
 }
