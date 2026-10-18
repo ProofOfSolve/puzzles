@@ -8,7 +8,7 @@ This page is the public record. It lists every prize wallet and answer fingerpri
 
 ## Puzzles
 
-The first three open **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)**, with about $125 in bitcoin each. Puzzle 4 opens **Saturday, October 31, 2026 at 6:00 AM Central (11:00 UTC)** with about $75. Click an address to see its balance on the blockchain.
+The first three open **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)**, with about $125 in bitcoin each. Puzzle 4 opens **Saturday, October 31, 2026 at 6:00 AM Central (11:00 UTC)** and Puzzle 5 opens **Saturday, November 7, 2026 at 6:00 AM Central (12:00 UTC)**, with about $75 each. Click an address to see its balance on the blockchain.
 
 | # | Puzzle | Entry | Prize wallet | Status |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@ The first three open **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)
 | 2 | Mount Vernon, Virginia | Free | [bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut](https://mempool.space/address/bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut) | Opens Oct 24 |
 | 3 | Alcatraz Island | $10 | [bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4](https://mempool.space/address/bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4) | Opens Oct 24 |
 | 4 | Lafayette, Louisiana | $5 | [bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa](https://mempool.space/address/bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa) | Opens Oct 31 |
+| 5 | Orange Beach, Alabama | $5 | [bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k](https://mempool.space/address/bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k) | Opens Nov 7 |
 
 ### Answer fingerprints (SHA-256)
 
@@ -25,6 +26,7 @@ The first three open **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)
 | 2 · Mount Vernon, Virginia | `d59268255545de753d9a4c00fb1bcdc7015e0b46fd337f5ba21a051ad89440a7` |
 | 3 · Alcatraz Island | `5b9434ac8b5decbff40bd3e09d29d21446f866bf580d4415cef0de9703b54fe0` |
 | 4 · Lafayette, Louisiana | `0acb960d15fe0b59e46e4e31c6f8aa749435b9f608b479dc313481ba1fa7a924` |
+| 5 · Orange Beach, Alabama | `1c5fd6bd7a8818257aa9b1ce5865d4be60fee022e1bc7302a7c7648da534df42` |
 
 The same list is in [puzzles.json](puzzles.json), for anyone who wants to check it with code.
 

@@ -59,6 +59,21 @@
       "salt": null,
       "winner": null,
       "payout_txid": null
+    },
+    {
+      "id": "orange-beach",
+      "number": 5,
+      "title": "Orange Beach, Alabama",
+      "kind": "paid",
+      "entry_price": "$5",
+      "opens_at": "2026-11-07T12:00:00Z",
+      "address": "bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k",
+      "fingerprint": "1c5fd6bd7a8818257aa9b1ce5865d4be60fee022e1bc7302a7c7648da534df42",
+      "status": "upcoming",
+      "answer": null,
+      "salt": null,
+      "winner": null,
+      "payout_txid": null
     }
   ]
 }
