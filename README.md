@@ -8,7 +8,7 @@ This page is the public record. It lists every prize wallet and answer fingerpri
 
 ## Puzzles
 
-Puzzles 1 and 2 open **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)**. Puzzles 3 and 4 open **Saturday, October 31, 2026 at 6:00 AM Central (11:00 UTC)**, and Puzzle 5 opens **Saturday, November 7, 2026 at 6:00 AM Central (12:00 UTC)**. Puzzles 1 to 3 carry about $125 in bitcoin each, and Puzzles 4 and 5 about $75 each. Click an address to see its balance on the blockchain.
+Puzzles 1 and 2 open **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)**. Puzzles 3 and 4 open **Saturday, October 31, 2026 at 6:00 AM Central (11:00 UTC)**. Puzzle 5 opens **Saturday, November 7, 2026** and Puzzle 6 opens **Saturday, November 14, 2026**, both at 6:00 AM Central (12:00 UTC). Puzzles 1 to 3 carry about $125 in bitcoin each, and Puzzles 4 to 6 about $75 each. Click an address to see its balance on the blockchain.
 
 | # | Puzzle | Entry | Prize wallet | Status |
 |---|---|---|---|---|
@@ -17,6 +17,7 @@ Puzzles 1 and 2 open **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)
 | 3 | Alcatraz Island | $10 | [bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4](https://mempool.space/address/bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4) | Opens Oct 31 |
 | 4 | Lafayette, Louisiana | $5 | [bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa](https://mempool.space/address/bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa) | Opens Oct 31 |
 | 5 | Orange Beach, Alabama | $5 | [bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k](https://mempool.space/address/bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k) | Opens Nov 7 |
+| 6 | Boston, Massachusetts | $5 | [bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z](https://mempool.space/address/bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z) | Opens Nov 14 |
 
 ### Answer fingerprints (SHA-256)
 
@@ -27,6 +28,7 @@ Puzzles 1 and 2 open **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)
 | 3 · Alcatraz Island | `5b9434ac8b5decbff40bd3e09d29d21446f866bf580d4415cef0de9703b54fe0` |
 | 4 · Lafayette, Louisiana | `0acb960d15fe0b59e46e4e31c6f8aa749435b9f608b479dc313481ba1fa7a924` |
 | 5 · Orange Beach, Alabama | `1c5fd6bd7a8818257aa9b1ce5865d4be60fee022e1bc7302a7c7648da534df42` |
+| 6 · Boston, Massachusetts | `6696ec098a09b0541bcb091fafd5f903b7ea6cb70e77e60f706b5293740e2f26` |
 
 The same list is in [puzzles.json](puzzles.json), for anyone who wants to check it with code.
 

@@ -74,6 +74,21 @@
       "salt": null,
       "winner": null,
       "payout_txid": null
+    },
+    {
+      "id": "boston",
+      "number": 6,
+      "title": "Boston, Massachusetts",
+      "kind": "paid",
+      "entry_price": "$5",
+      "opens_at": "2026-11-14T12:00:00Z",
+      "address": "bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z",
+      "fingerprint": "6696ec098a09b0541bcb091fafd5f903b7ea6cb70e77e60f706b5293740e2f26",
+      "status": "upcoming",
+      "answer": null,
+      "salt": null,
+      "winner": null,
+      "payout_txid": null
     }
   ]
 }
