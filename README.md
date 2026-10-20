@@ -66,4 +66,6 @@ No puzzles solved yet. Each result will list the winner's chosen name (or "Anony
 - Free puzzles: 3 tries per email address every 24 hours. Paid puzzles: 3 tries per entry code every 24 hours.
 - 18 or older. Full rules: [proofofsolve.com/rules](https://proofofsolve.com/rules)
 
+Talk about the puzzles with other players on Reddit: **[r/proofofsolve](https://www.reddit.com/r/proofofsolve)**. Every puzzle gets its own thread when it opens.
+
 Questions: support@proofofsolve.com
