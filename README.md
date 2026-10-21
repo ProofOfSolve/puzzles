@@ -32,6 +32,12 @@ Puzzles 1 and 2 open **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)
 
 The same list is in [puzzles.json](puzzles.json), for anyone who wants to check it with code.
 
+## Corrections
+
+If a clue ever needs fixing (for example, because Google changed the Street View imagery it depends on), the fix goes on the puzzle's page under Corrections, right above the clues, and is listed here with its date.
+
+None so far.
+
 ## How the fingerprint works
 
 1. The answer is the 12 seed words in lowercase, in clue order, with one space between words.
