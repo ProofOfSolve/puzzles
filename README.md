@@ -70,8 +70,11 @@ Each result lists the winner's chosen name (or "Anonymous"), the solve time, the
 
 - **Solved:** Saturday, October 24, 2026 at 6:31:38 AM Central (11:31:38 UTC), 31 minutes after it opened
 - **Winner:** Anonymous
-- **Payout:** [8cb8dd217c…50df271c](https://mempool.space/tx/8cb8dd217cf10b3641cf5df37816b3ed837425020c2a5ea4fb9aa9d150df271c), 151,527 sats to the winner's own wallet, confirmed in block 972,923
-- **Answer and salt:** coming soon
+- **Payout:** [8cb8dd217c…50df271c](https://mempool.space/tx/8cb8dd217cf10b3641cf5df37816b3ed837425020c2a5ea4fb9aa9d150df271c), 151,527 sats to the winner's wallet
+- **Answer:** `island bird sleep zero bar prison only club peace city phone toilet`
+- **Salt:** `a9d4-6sq5-k6mr-2tfg-rbur-jk6z`
+- **Check:** SHA-256 of the salt followed by the answer gives `5b9434ac8b5decbff40bd3e09d29d21446f866bf580d4415cef0de9703b54fe0`, the fingerprint posted before it opened.
+- **Every spot, with pictures:** [proofofsolve.com/puzzle?id=alcatraz](https://proofofsolve.com/puzzle?id=alcatraz)
 
 ## Rules in short
 
