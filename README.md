@@ -8,12 +8,12 @@ This page is the public record. It lists every prize wallet and answer fingerpri
 
 ## Puzzles
 
-Puzzles 1 and 2 open **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)**. Puzzles 3 and 4 open **Saturday, October 31, 2026 at 6:00 AM Central (11:00 UTC)**. Puzzle 5 opens **Saturday, November 7, 2026** and Puzzle 6 opens **Saturday, November 14, 2026**, both at 6:00 AM Central (12:00 UTC). Puzzles 1 to 3 carry about $125 in bitcoin each, and Puzzles 4 to 6 about $75 each. Click an address to see its balance on the blockchain.
+Puzzles 1 and 2 opened **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)**. Puzzles 3 and 4 open **Saturday, October 31, 2026 at 6:00 AM Central (11:00 UTC)**. Puzzle 5 opens **Saturday, November 7, 2026** and Puzzle 6 opens **Saturday, November 14, 2026**, both at 6:00 AM Central (12:00 UTC). Puzzles 1 to 3 carry about $125 in bitcoin each, and Puzzles 4 to 6 about $75 each. Click an address to see its balance on the blockchain.
 
 | # | Puzzle | Entry | Prize wallet | Status |
 |---|---|---|---|---|
-| 1 | Meridian, Mississippi | Free | [bc1qphjz3cxsj8ls498uker4l703cqpg3fqx2g8tza](https://mempool.space/address/bc1qphjz3cxsj8ls498uker4l703cqpg3fqx2g8tza) | Opens Oct 24 |
-| 2 | Alcatraz Island | Free | [bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4](https://mempool.space/address/bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4) | Opens Oct 24 |
+| 1 | Meridian, Mississippi | Free | [bc1qphjz3cxsj8ls498uker4l703cqpg3fqx2g8tza](https://mempool.space/address/bc1qphjz3cxsj8ls498uker4l703cqpg3fqx2g8tza) | **Open** |
+| 2 | Alcatraz Island | Free | [bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4](https://mempool.space/address/bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4) | **Solved** Oct 24 · [paid out](https://mempool.space/tx/8cb8dd217cf10b3641cf5df37816b3ed837425020c2a5ea4fb9aa9d150df271c) |
 | 3 | Mount Vernon, Virginia | $10 | [bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut](https://mempool.space/address/bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut) | Opens Oct 31 |
 | 4 | Lafayette, Louisiana | Free | [bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa](https://mempool.space/address/bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa) | Opens Oct 31 |
 | 5 | Orange Beach, Alabama | $5 | [bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k](https://mempool.space/address/bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k) | Opens Nov 7 |
@@ -64,7 +64,14 @@ The result should match the fingerprint in the table above.
 
 ## Results
 
-No puzzles solved yet. Each result will list the winner's chosen name (or "Anonymous"), the solve time, the payout transaction, the answer and the salt.
+Each result lists the winner's chosen name (or "Anonymous"), the solve time, the payout transaction, the answer and the salt.
+
+### 2 · Alcatraz Island
+
+- **Solved:** Saturday, October 24, 2026 at 6:31:38 AM Central (11:31:38 UTC), 31 minutes after it opened
+- **Winner:** Anonymous
+- **Payout:** [8cb8dd217c…50df271c](https://mempool.space/tx/8cb8dd217cf10b3641cf5df37816b3ed837425020c2a5ea4fb9aa9d150df271c), 151,527 sats to the winner's own wallet, confirmed in block 972,923
+- **Answer and salt:** coming soon
 
 ## Rules in short
 
@@ -72,6 +79,6 @@ No puzzles solved yet. Each result will list the winner's chosen name (or "Anony
 - Free puzzles: 3 tries per email address every 24 hours. Paid puzzles: 3 tries per entry code every 24 hours.
 - 18 or older. Full rules: [proofofsolve.com/rules](https://proofofsolve.com/rules)
 
-Talk about the puzzles with other players on Reddit: **[r/proofofsolve](https://www.reddit.com/r/proofofsolve)**. Every puzzle gets its own thread when it opens.
+Talk about the puzzles with other players on Reddit: **[r/proofofsolve](https://www.reddit.com/r/proofofsolve)**.
 
 Questions: support@proofofsolve.com

@@ -10,7 +10,7 @@
       "opens_at": "2026-10-24T11:00:00Z",
       "address": "bc1qphjz3cxsj8ls498uker4l703cqpg3fqx2g8tza",
       "fingerprint": "f5398c3db138e13a56cbff7bd697aa6031f249d345e48bb95059bb534e7559ef",
-      "status": "upcoming",
+      "status": "open",
       "answer": null,
       "salt": null,
       "winner": null,
@@ -24,11 +24,12 @@
       "opens_at": "2026-10-24T11:00:00Z",
       "address": "bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4",
       "fingerprint": "5b9434ac8b5decbff40bd3e09d29d21446f866bf580d4415cef0de9703b54fe0",
-      "status": "upcoming",
+      "status": "solved",
+      "solved_at": "2026-10-24T11:31:38Z",
       "answer": null,
       "salt": null,
-      "winner": null,
-      "payout_txid": null
+      "winner": "Anonymous",
+      "payout_txid": "8cb8dd217cf10b3641cf5df37816b3ed837425020c2a5ea4fb9aa9d150df271c"
     },
     {
       "id": "mount-vernon",
