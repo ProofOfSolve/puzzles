@@ -10,11 +10,12 @@
       "opens_at": "2026-10-24T11:00:00Z",
       "address": "bc1qphjz3cxsj8ls498uker4l703cqpg3fqx2g8tza",
       "fingerprint": "f5398c3db138e13a56cbff7bd697aa6031f249d345e48bb95059bb534e7559ef",
-      "status": "open",
-      "answer": null,
-      "salt": null,
-      "winner": null,
-      "payout_txid": null
+      "status": "solved",
+      "solved_at": "2026-10-25T11:31:51.802Z",
+      "answer": "rich hill palm slide waste antique head horse flag pool eagle track",
+      "salt": "cqjn-4r9u-zbf2-msmx-tt36-7qgp",
+      "winner": "trittic",
+      "payout_txid": "b41c387d8b8f3e331e96fd1dcbed24af426e6ea6dba12138d52483304c41407a"
     },
     {
       "id": "alcatraz",
