@@ -12,7 +12,7 @@ Puzzles 1 and 2 opened **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UT
 
 | # | Puzzle | Entry | Prize wallet | Status |
 |---|---|---|---|---|
-| 1 | Meridian, Mississippi | Free | [bc1qphjz3cxsj8ls498uker4l703cqpg3fqx2g8tza](https://mempool.space/address/bc1qphjz3cxsj8ls498uker4l703cqpg3fqx2g8tza) | **Open** |
+| 1 | Meridian, Mississippi | Free | [bc1qphjz3cxsj8ls498uker4l703cqpg3fqx2g8tza](https://mempool.space/address/bc1qphjz3cxsj8ls498uker4l703cqpg3fqx2g8tza) | **Solved** Oct 25 · [paid out](https://mempool.space/tx/b41c387d8b8f3e331e96fd1dcbed24af426e6ea6dba12138d52483304c41407a) |
 | 2 | Alcatraz Island | Free | [bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4](https://mempool.space/address/bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4) | **Solved** Oct 24 · [paid out](https://mempool.space/tx/8cb8dd217cf10b3641cf5df37816b3ed837425020c2a5ea4fb9aa9d150df271c) |
 | 3 | Mount Vernon, Virginia | Free | [bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut](https://mempool.space/address/bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut) | Opens Oct 31 |
 | 4 | Lafayette, Louisiana | Free | [bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa](https://mempool.space/address/bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa) | Opens Oct 31 |
@@ -65,6 +65,16 @@ The result should match the fingerprint in the table above.
 ## Results
 
 Each result lists the winner's chosen name (or "Anonymous"), the solve time, the payout transaction, the answer and the salt.
+
+### 1 · Meridian, Mississippi
+
+- **Solved:** Sunday, October 25, 2026 at 6:31:51 AM Central (11:31:51 UTC), 24 hours 31 minutes after it opened
+- **Winner:** trittic
+- **Payout:** [b41c387d8b…4c41407a](https://mempool.space/tx/b41c387d8b8f3e331e96fd1dcbed24af426e6ea6dba12138d52483304c41407a), 151,458 sats to the winner's wallet
+- **Answer:** `rich hill palm slide waste antique head horse flag pool eagle track`
+- **Salt:** `cqjn-4r9u-zbf2-msmx-tt36-7qgp`
+- **Check:** SHA-256 of the salt followed by the answer gives `f5398c3db138e13a56cbff7bd697aa6031f249d345e48bb95059bb534e7559ef`, the fingerprint posted before it opened.
+- **Every spot, with pictures:** [proofofsolve.com/puzzle?id=meridian](https://proofofsolve.com/puzzle?id=meridian)
 
 ### 2 · Alcatraz Island
 
