@@ -8,7 +8,7 @@ This page is the public record. It lists every prize wallet and answer fingerpri
 
 ## Puzzles
 
-Puzzles 1 and 2 opened **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)**. On **Saturday, October 31, 2026**, Puzzle 4 opens at **8:00 AM Central (13:00 UTC)** and Puzzle 3 at **12:00 noon Central (17:00 UTC)**. Puzzle 5 opens **Saturday, November 7, 2026 at 8:00 AM Central (14:00 UTC)**, and Puzzle 6 opens **Saturday, November 14, 2026 at 12:00 noon Central (18:00 UTC)**. Puzzles 1 to 3 carry about $125 in bitcoin each, and Puzzles 4 to 6 about $75 each. Click an address to see its balance on the blockchain.
+Puzzles 1 and 2 opened **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)**. On **Saturday, October 31, 2026**, Puzzle 4 opens at **8:00 AM Central (13:00 UTC)** and Puzzle 3 at **12:00 noon Central (17:00 UTC)**. Puzzle 5 opens **Saturday, November 7, 2026 at 8:00 AM Central (14:00 UTC)**, and Puzzle 6 opens **Saturday, November 14, 2026 at 12:00 noon Central (18:00 UTC)**. Puzzle 7 opens **Saturday, November 21, 2026 at 8:00 AM Central (14:00 UTC)**, and its place stays hidden until then. Puzzles 1 to 3 carry about $125 in bitcoin each, Puzzles 4 to 6 about $75 each, and Puzzle 7 about $50. Click an address to see its balance on the blockchain.
 
 | # | Puzzle | Entry | Prize wallet | Status |
 |---|---|---|---|---|
@@ -18,6 +18,7 @@ Puzzles 1 and 2 opened **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UT
 | 4 | Lafayette, Louisiana | Free | [bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa](https://mempool.space/address/bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa) | Opens Oct 31 |
 | 5 | Orange Beach, Alabama | Free | [bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k](https://mempool.space/address/bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k) | Opens Nov 7 |
 | 6 | Boston, Massachusetts | Free | [bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z](https://mempool.space/address/bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z) | Opens Nov 14 |
+| 7 | Hidden until reveal day | TBD | [bc1qytrawhjlh2kfhzesgyj6e748l0fpekz26spvj6](https://mempool.space/address/bc1qytrawhjlh2kfhzesgyj6e748l0fpekz26spvj6) | Opens Nov 21 |
 
 ### Answer fingerprints (SHA-256)
 
@@ -29,6 +30,7 @@ Puzzles 1 and 2 opened **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UT
 | 4 · Lafayette, Louisiana | `0acb960d15fe0b59e46e4e31c6f8aa749435b9f608b479dc313481ba1fa7a924` |
 | 5 · Orange Beach, Alabama | `1c5fd6bd7a8818257aa9b1ce5865d4be60fee022e1bc7302a7c7648da534df42` |
 | 6 · Boston, Massachusetts | `6696ec098a09b0541bcb091fafd5f903b7ea6cb70e77e60f706b5293740e2f26` |
+| 7 · Hidden until reveal day | `186ffdc2faab03160d14d30254a29b5e9fca568993498b3195aa680afaa733b7` |
 
 The same list is in [puzzles.json](puzzles.json), for anyone who wants to check it with code.
 

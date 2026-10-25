@@ -87,6 +87,20 @@
       "salt": null,
       "winner": null,
       "payout_txid": null
+    },
+    {
+      "id": "puzzle-7",
+      "number": 7,
+      "title": "Hidden until reveal day",
+      "kind": "TBD",
+      "opens_at": "2026-11-21T14:00:00Z",
+      "address": "bc1qytrawhjlh2kfhzesgyj6e748l0fpekz26spvj6",
+      "fingerprint": "186ffdc2faab03160d14d30254a29b5e9fca568993498b3195aa680afaa733b7",
+      "status": "upcoming",
+      "answer": null,
+      "salt": null,
+      "winner": null,
+      "payout_txid": null
     }
   ]
 }
