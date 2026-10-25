@@ -8,7 +8,7 @@ This page is the public record. It lists every prize wallet and answer fingerpri
 
 ## Puzzles
 
-Puzzles 1 and 2 opened **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)**. Puzzles 3 and 4 open **Saturday, October 31, 2026 at 6:00 AM Central (11:00 UTC)**. Puzzle 5 opens **Saturday, November 7, 2026** and Puzzle 6 opens **Saturday, November 14, 2026**, both at 6:00 AM Central (12:00 UTC). Puzzles 1 to 3 carry about $125 in bitcoin each, and Puzzles 4 to 6 about $75 each. Click an address to see its balance on the blockchain.
+Puzzles 1 and 2 opened **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)**. On **Saturday, October 31, 2026**, Puzzle 3 opens at **8:00 AM Central (13:00 UTC)** and Puzzle 4 at **12:00 noon Central (17:00 UTC)**. Puzzle 5 opens **Saturday, November 7, 2026** and Puzzle 6 opens **Saturday, November 14, 2026**, both at 8:00 AM Central (14:00 UTC). Puzzles 1 to 3 carry about $125 in bitcoin each, and Puzzles 4 to 6 about $75 each. Click an address to see its balance on the blockchain.
 
 | # | Puzzle | Entry | Prize wallet | Status |
 |---|---|---|---|---|
