@@ -14,10 +14,10 @@ Puzzles 1 and 2 opened **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UT
 |---|---|---|---|---|
 | 1 | Meridian, Mississippi | Free | [bc1qphjz3cxsj8ls498uker4l703cqpg3fqx2g8tza](https://mempool.space/address/bc1qphjz3cxsj8ls498uker4l703cqpg3fqx2g8tza) | **Open** |
 | 2 | Alcatraz Island | Free | [bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4](https://mempool.space/address/bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4) | **Solved** Oct 24 · [paid out](https://mempool.space/tx/8cb8dd217cf10b3641cf5df37816b3ed837425020c2a5ea4fb9aa9d150df271c) |
-| 3 | Mount Vernon, Virginia | $10 | [bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut](https://mempool.space/address/bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut) | Opens Oct 31 |
+| 3 | Mount Vernon, Virginia | Free | [bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut](https://mempool.space/address/bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut) | Opens Oct 31 |
 | 4 | Lafayette, Louisiana | Free | [bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa](https://mempool.space/address/bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa) | Opens Oct 31 |
-| 5 | Orange Beach, Alabama | $5 | [bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k](https://mempool.space/address/bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k) | Opens Nov 7 |
-| 6 | Boston, Massachusetts | $5 | [bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z](https://mempool.space/address/bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z) | Opens Nov 14 |
+| 5 | Orange Beach, Alabama | Free | [bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k](https://mempool.space/address/bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k) | Opens Nov 7 |
+| 6 | Boston, Massachusetts | Free | [bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z](https://mempool.space/address/bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z) | Opens Nov 14 |
 
 ### Answer fingerprints (SHA-256)
 
