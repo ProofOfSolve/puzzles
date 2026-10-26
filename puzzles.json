@@ -47,9 +47,9 @@
       "payout_txid": null
     },
     {
-      "id": "lafayette",
+      "id": "puzzle-4",
       "number": 4,
-      "title": "Lafayette, Louisiana",
+      "title": "Hidden until reveal day",
       "kind": "free",
       "opens_at": "2026-11-07T15:00:00Z",
       "address": "bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa",
@@ -61,9 +61,9 @@
       "payout_txid": null
     },
     {
-      "id": "orange-beach",
+      "id": "puzzle-5",
       "number": 5,
-      "title": "Orange Beach, Alabama",
+      "title": "Hidden until reveal day",
       "kind": "free",
       "opens_at": "2026-11-14T15:00:00Z",
       "address": "bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k",
@@ -75,9 +75,9 @@
       "payout_txid": null
     },
     {
-      "id": "boston",
+      "id": "puzzle-6",
       "number": 6,
-      "title": "Boston, Massachusetts",
+      "title": "Hidden until reveal day",
       "kind": "free",
       "opens_at": "2026-11-21T15:00:00Z",
       "address": "bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z",
