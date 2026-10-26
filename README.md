@@ -94,6 +94,4 @@ Each result lists the winner's chosen name (or "Anonymous"), the solve time, the
 - Free puzzles: 3 tries per email address every 24 hours. Paid puzzles: 3 tries per entry code every 24 hours.
 - 18 or older. Full rules: [proofofsolve.com/rules](https://proofofsolve.com/rules)
 
-Talk about the puzzles with other players on Reddit: **[r/proofofsolve](https://www.reddit.com/r/proofofsolve)**.
-
 Questions: support@proofofsolve.com
