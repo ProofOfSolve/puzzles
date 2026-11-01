@@ -40,16 +40,17 @@
       "opens_at": "2026-10-31T14:00:00Z",
       "address": "bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut",
       "fingerprint": "d59268255545de753d9a4c00fb1bcdc7015e0b46fd337f5ba21a051ad89440a7",
-      "status": "upcoming",
-      "answer": null,
-      "salt": null,
-      "winner": null,
-      "payout_txid": null
+      "status": "solved",
+      "solved_at": "2026-10-31T17:00:02.284Z",
+      "answer": "wall oval brick river vault pink dog corn august other arrow wheat",
+      "salt": "tq47-g89b-mtsm-mrzu-xrv7-uhsj",
+      "winner": "Nightsolver",
+      "payout_txid": "728920e3007ab127496be3c568a04d7c7243fe4c754a54462bcd819e2301e317"
     },
     {
-      "id": "puzzle-4",
+      "id": "lafayette",
       "number": 4,
-      "title": "Hidden until reveal day",
+      "title": "Lafayette, Louisiana",
       "kind": "free",
       "opens_at": "2026-11-07T15:00:00Z",
       "address": "bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa",
@@ -61,9 +62,9 @@
       "payout_txid": null
     },
     {
-      "id": "puzzle-5",
+      "id": "orange-beach",
       "number": 5,
-      "title": "Hidden until reveal day",
+      "title": "Orange Beach, Alabama",
       "kind": "free",
       "opens_at": "2026-11-14T15:00:00Z",
       "address": "bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k",
@@ -75,9 +76,9 @@
       "payout_txid": null
     },
     {
-      "id": "puzzle-6",
+      "id": "boston",
       "number": 6,
-      "title": "Hidden until reveal day",
+      "title": "Boston, Massachusetts",
       "kind": "free",
       "opens_at": "2026-11-21T15:00:00Z",
       "address": "bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z",
