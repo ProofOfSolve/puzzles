@@ -101,7 +101,7 @@ Each result lists the winner's chosen name (or "Anonymous"), the solve time, the
 ### 4 · Lafayette, Louisiana
 
 - **Solved:** Saturday, November 7, 2026 at 9:47:32 AM Central (15:47:32 UTC), 47 minutes after it opened
-- **Winner:** Tres
+- **Winner:** oncedegen
 - **Payout:** [835fd988a6…01392044](https://mempool.space/tx/835fd988a61bf6ef75871e4cfcfe6982369796869a97a96747bc812d01392044), 92,290 sats to the winner's wallet
 - **Answer:** `hockey arch hospital bike horse love chicken ranch shop pink property coin`
 - **Salt:** `cqgx-jc5y-48kq-uaue-ufa6-dvc4`
