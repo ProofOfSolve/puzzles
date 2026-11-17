@@ -16,7 +16,7 @@ Puzzles 1 and 2 opened **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UT
 | 2 | Alcatraz Island | Free | [bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4](https://mempool.space/address/bc1q6830c0qx9975llvq8a0q0urmaxpa6yhgtgusx4) | **Solved** Oct 24 · [paid out](https://mempool.space/tx/8cb8dd217cf10b3641cf5df37816b3ed837425020c2a5ea4fb9aa9d150df271c) |
 | 3 | Mount Vernon, Virginia | Free | [bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut](https://mempool.space/address/bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut) | **Solved** Oct 31 · [paid out](https://mempool.space/tx/728920e3007ab127496be3c568a04d7c7243fe4c754a54462bcd819e2301e317) |
 | 4 | Lafayette, Louisiana | Free | [bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa](https://mempool.space/address/bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa) | **Solved** Nov 7 · [paid out](https://mempool.space/tx/835fd988a61bf6ef75871e4cfcfe6982369796869a97a96747bc812d01392044) |
-| 5 | Hidden until reveal day | Free | [bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k](https://mempool.space/address/bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k) | Opens Nov 14 |
+| 5 | Orange Beach, Alabama | Free | [bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k](https://mempool.space/address/bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k) | **Solved** Nov 17 · [paid out](https://mempool.space/tx/66844d19a18392abdb9d64546619aed23db1d517547cdf0df8046a8c5257b10e) |
 | 6 | Hidden until reveal day | Free | [bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z](https://mempool.space/address/bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z) | Opens Nov 21 |
 | 7 | Hidden until reveal day | TBD | [bc1qytrawhjlh2kfhzesgyj6e748l0fpekz26spvj6](https://mempool.space/address/bc1qytrawhjlh2kfhzesgyj6e748l0fpekz26spvj6) | Opens Nov 28 |
 
@@ -28,7 +28,7 @@ Puzzles 1 and 2 opened **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UT
 | 2 · Alcatraz Island | `5b9434ac8b5decbff40bd3e09d29d21446f866bf580d4415cef0de9703b54fe0` |
 | 3 · Mount Vernon, Virginia | `d59268255545de753d9a4c00fb1bcdc7015e0b46fd337f5ba21a051ad89440a7` |
 | 4 · Lafayette, Louisiana | `0acb960d15fe0b59e46e4e31c6f8aa749435b9f608b479dc313481ba1fa7a924` |
-| 5 · Hidden until reveal day | `1c5fd6bd7a8818257aa9b1ce5865d4be60fee022e1bc7302a7c7648da534df42` |
+| 5 · Orange Beach, Alabama | `1c5fd6bd7a8818257aa9b1ce5865d4be60fee022e1bc7302a7c7648da534df42` |
 | 6 · Hidden until reveal day | `6696ec098a09b0541bcb091fafd5f903b7ea6cb70e77e60f706b5293740e2f26` |
 | 7 · Hidden until reveal day | `186ffdc2faab03160d14d30254a29b5e9fca568993498b3195aa680afaa733b7` |
 
@@ -107,6 +107,16 @@ Each result lists the winner's chosen name (or "Anonymous"), the solve time, the
 - **Salt:** `cqgx-jc5y-48kq-uaue-ufa6-dvc4`
 - **Check:** SHA-256 of the salt followed by the answer gives `0acb960d15fe0b59e46e4e31c6f8aa749435b9f608b479dc313481ba1fa7a924`, the fingerprint posted before it opened.
 - **Every spot, with pictures:** [proofofsolve.com/puzzle?id=puzzle-4](https://proofofsolve.com/puzzle?id=puzzle-4)
+
+### 5 · Orange Beach, Alabama
+
+- **Solved:** Tuesday, November 17, 2026 at 2:10:18 AM Central (08:10:18 UTC), 2 days 17 hours after it opened
+- **Winner:** schum
+- **Payout:** [66844d19a1…5257b10e](https://mempool.space/tx/66844d19a18392abdb9d64546619aed23db1d517547cdf0df8046a8c5257b10e), 92,426 sats to the winner's wallet
+- **Answer:** `cotton ship wine bread coffee lion black candy blue palm wheel hospital`
+- **Salt:** `9png-be4w-3r6n-fbtv-kf29-cwhd`
+- **Check:** SHA-256 of the salt followed by the answer gives `1c5fd6bd7a8818257aa9b1ce5865d4be60fee022e1bc7302a7c7648da534df42`, the fingerprint posted before it opened.
+- **Every spot, with pictures:** [proofofsolve.com/puzzle?id=puzzle-5](https://proofofsolve.com/puzzle?id=puzzle-5)
 
 ## Rules in short
 
