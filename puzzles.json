@@ -65,16 +65,18 @@
     {
       "id": "puzzle-5",
       "number": 5,
-      "title": "Hidden until reveal day",
+      "title": "Orange Beach, Alabama",
       "kind": "free",
       "opens_at": "2026-11-14T15:00:00Z",
       "address": "bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k",
       "fingerprint": "1c5fd6bd7a8818257aa9b1ce5865d4be60fee022e1bc7302a7c7648da534df42",
-      "status": "upcoming",
-      "answer": null,
-      "salt": null,
-      "winner": null,
-      "payout_txid": null
+      "status": "solved",
+      "solved_at": "2026-11-17T08:10:18.912Z",
+      "answer": "cotton ship wine bread coffee lion black candy blue palm wheel hospital",
+      "salt": "9png-be4w-3r6n-fbtv-kf29-cwhd",
+      "winner": "schum",
+      "payout_txid": "66844d19a18392abdb9d64546619aed23db1d517547cdf0df8046a8c5257b10e",
+      "maps_url": "https://www.google.com/maps/place/Orange+Beach,+AL"
     },
     {
       "id": "puzzle-6",
