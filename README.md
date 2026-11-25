@@ -8,7 +8,17 @@ This page is the public record. It lists every prize wallet and answer fingerpri
 
 ## Puzzles
 
-Puzzles 1 and 2 opened **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC)**. From then on, one puzzle opens each Saturday at **9:00 AM Central**: Puzzle 3 on **October 31, 2026 (14:00 UTC)**, Puzzle 4 on **November 7, 2026 (15:00 UTC)**, Puzzle 5 on **November 14, 2026 (15:00 UTC)**, Puzzle 6 on **November 21, 2026 (15:00 UTC)**, and Puzzle 7 on **November 28, 2026 (15:00 UTC)**. The places of Puzzles 4 to 7 stay hidden until each one opens. Puzzles 1 to 3 carry about $125 in bitcoin each, Puzzles 4 to 6 about $75 each, and Puzzle 7 about $50. Click an address to see its balance on the blockchain.
+**Open now: Puzzle 6** (free, about $130 in bitcoin). It opened **Saturday, November 21, 2026 at 9:00 AM Central (15:00 UTC)** and is still unsolved. Its prize went up by about $75 on November 23, and it got an extra week before the next puzzle.
+
+**Coming up:**
+
+- **Puzzle 7** (free, about $50 in bitcoin) opens **Saturday, December 5, 2026 at 9:00 AM Central (15:00 UTC)**. Its daily hunt runs December 1 to 4.
+- **Puzzle 8** is the first paid puzzle: $500 in bitcoin, or $1,000 if 100 people play. It opens **Saturday, December 12, 2026 at 9:00 AM Central (15:00 UTC)**. Entries cost $10 in bitcoin, one per person, and are on sale from **December 5, 2026 at 9:00 AM Central (15:00 UTC)** until **December 12, 2026 at 6:00 AM Central (12:00 UTC)**.
+- After Puzzle 8, puzzles open once a month, on the first Saturday at 9:00 AM Central (15:00 UTC): **Puzzle 9 on January 2, 2027**, **Puzzle 10 on February 6, 2027** and **Puzzle 11 on March 6, 2027**. Their prize wallets and fingerprints are added here before they open.
+
+**Done so far:** Puzzles 1 and 2 opened Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC). Puzzles 3, 4 and 5 opened on the next Saturdays at 9:00 AM Central (October 31, November 7 and November 14). Puzzles 1 to 3 carried about $125 in bitcoin each, and Puzzles 4 and 5 about $75 each. All five are solved and paid out.
+
+A puzzle's place stays hidden until its answer is revealed. Click an address to see its balance on the blockchain.
 
 | # | Puzzle | Entry | Prize wallet | Status |
 |---|---|---|---|---|
@@ -17,8 +27,12 @@ Puzzles 1 and 2 opened **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UT
 | 3 | Mount Vernon, Virginia | Free | [bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut](https://mempool.space/address/bc1qqs2f7a3n6p3s694kh8rvcyccnf4n5n733nc0ut) | **Solved** Oct 31 · [paid out](https://mempool.space/tx/728920e3007ab127496be3c568a04d7c7243fe4c754a54462bcd819e2301e317) |
 | 4 | Lafayette, Louisiana | Free | [bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa](https://mempool.space/address/bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa) | **Solved** Nov 7 · [paid out](https://mempool.space/tx/835fd988a61bf6ef75871e4cfcfe6982369796869a97a96747bc812d01392044) |
 | 5 | Orange Beach, Alabama | Free | [bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k](https://mempool.space/address/bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k) | **Solved** Nov 17 · [paid out](https://mempool.space/tx/66844d19a18392abdb9d64546619aed23db1d517547cdf0df8046a8c5257b10e) |
-| 6 | Hidden until reveal day | Free | [bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z](https://mempool.space/address/bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z) | Opens Nov 21 |
-| 7 | Hidden until reveal day | TBD | [bc1qytrawhjlh2kfhzesgyj6e748l0fpekz26spvj6](https://mempool.space/address/bc1qytrawhjlh2kfhzesgyj6e748l0fpekz26spvj6) | Opens Nov 28 |
+| 6 | Hidden until reveal day | Free | [bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z](https://mempool.space/address/bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z) | **Open now** (since Nov 21) |
+| 7 | Hidden until reveal day | Free | [bc1qytrawhjlh2kfhzesgyj6e748l0fpekz26spvj6](https://mempool.space/address/bc1qytrawhjlh2kfhzesgyj6e748l0fpekz26spvj6) | Opens Dec 5 |
+| 8 | Hidden until reveal day | Paid ($10) | [bc1qqn4ggckt0faqnxh835ec87h3h7vsw8hlja3k2k](https://mempool.space/address/bc1qqn4ggckt0faqnxh835ec87h3h7vsw8hlja3k2k) | Opens Dec 12 (entries from Dec 5) |
+| 9 | Hidden until reveal day | To be announced | Posted before it opens | Opens Jan 2, 2027 |
+| 10 | Hidden until reveal day | To be announced | Posted before it opens | Opens Feb 6, 2027 |
+| 11 | Hidden until reveal day | To be announced | Posted before it opens | Opens Mar 6, 2027 |
 
 ### Answer fingerprints (SHA-256)
 
@@ -31,14 +45,17 @@ Puzzles 1 and 2 opened **Saturday, October 24, 2026 at 6:00 AM Central (11:00 UT
 | 5 · Orange Beach, Alabama | `1c5fd6bd7a8818257aa9b1ce5865d4be60fee022e1bc7302a7c7648da534df42` |
 | 6 · Hidden until reveal day | `6696ec098a09b0541bcb091fafd5f903b7ea6cb70e77e60f706b5293740e2f26` |
 | 7 · Hidden until reveal day | `186ffdc2faab03160d14d30254a29b5e9fca568993498b3195aa680afaa733b7` |
+| 8 · Hidden until reveal day | `259337789acc2e838dafb8a72906bca35fc728f3ccd5cabc883a21da735c9335` |
 
 The same list is in [puzzles.json](puzzles.json), for anyone who wants to check it with code.
 
-## Corrections
+## Corrections and hints
 
-If a clue ever needs fixing (for example, because Google changed the Street View imagery it depends on), the fix goes on the puzzle's page under Corrections, right above the clues, and is listed here with its date.
+If a clue ever needs fixing (for example, because Google changed the Street View imagery it depends on), the fix goes on the puzzle's page under Corrections and hints, right above the clues, and is listed here with its date. Now and then a hint goes there too, for everyone at the same moment.
 
-None so far.
+- **November 23, 2026 · Puzzle 6:** hint for clue 2: "Sea. See. Sí."
+
+No clue has needed a correction so far.
 
 ## How the fingerprint works
 
@@ -111,7 +128,7 @@ Each result lists the winner's chosen name (or "Anonymous"), the solve time, the
 ### 5 · Orange Beach, Alabama
 
 - **Solved:** Tuesday, November 17, 2026 at 2:10:18 AM Central (08:10:18 UTC), 2 days 17 hours after it opened
-- **Winner:** schum
+- **Winner:** schum-io
 - **Payout:** [66844d19a1…5257b10e](https://mempool.space/tx/66844d19a18392abdb9d64546619aed23db1d517547cdf0df8046a8c5257b10e), 92,426 sats to the winner's wallet
 - **Answer:** `cotton ship wine bread coffee lion black candy blue palm wheel hospital`
 - **Salt:** `9png-be4w-3r6n-fbtv-kf29-cwhd`
@@ -121,9 +138,9 @@ Each result lists the winner's chosen name (or "Anonymous"), the solve time, the
 ## Rules in short
 
 - Never visit a puzzle location in person. Everything can be solved from Street View.
-- Free puzzles: 3 tries per email address every 24 hours. Paid puzzles: 3 tries per entry code every 24 hours.
+- Free puzzles: 3 tries per email address every 24 hours. Paid puzzles: 3 tries per entry code every 24 hours, unless the puzzle's page gives a different number (Puzzle 8 gives 6).
 - 18 or older. Full rules: [proofofsolve.com/rules](https://proofofsolve.com/rules)
 
-Talk about the puzzles with other players on our message board: **[proofofsolve.com/board](https://proofofsolve.com/board)**.
+Talk about the puzzles with other players on our Discord: **[discord.com/invite/pyrfhswBgF](https://discord.com/invite/pyrfhswBgF)**.
 
 Questions: support@proofofsolve.com
