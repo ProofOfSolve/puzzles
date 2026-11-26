@@ -15,7 +15,8 @@
       "answer": "rich hill palm slide waste antique head horse flag pool eagle track",
       "salt": "cqjn-4r9u-zbf2-msmx-tt36-7qgp",
       "winner": "trittic",
-      "payout_txid": "b41c387d8b8f3e331e96fd1dcbed24af426e6ea6dba12138d52483304c41407a"
+      "payout_txid": "b41c387d8b8f3e331e96fd1dcbed24af426e6ea6dba12138d52483304c41407a",
+      "winner_note_tx": "fd3ee1135696574dd0f6edbcf328e9c95dd04916fdf81c5fe549bb7444c69986"
     },
     {
       "id": "alcatraz",
@@ -30,7 +31,8 @@
       "answer": "island bird sleep zero bar prison only club peace city phone toilet",
       "salt": "a9d4-6sq5-k6mr-2tfg-rbur-jk6z",
       "winner": "Anonymous",
-      "payout_txid": "8cb8dd217cf10b3641cf5df37816b3ed837425020c2a5ea4fb9aa9d150df271c"
+      "payout_txid": "8cb8dd217cf10b3641cf5df37816b3ed837425020c2a5ea4fb9aa9d150df271c",
+      "winner_note_tx": "3baeb0127f71109e2a27b2da1ba7db17c66396bb562df2447be9130537f9a6d9"
     },
     {
       "id": "mount-vernon",
@@ -45,7 +47,8 @@
       "answer": "wall oval brick river vault pink dog corn august other arrow wheat",
       "salt": "tq47-g89b-mtsm-mrzu-xrv7-uhsj",
       "winner": "Nightsolver",
-      "payout_txid": "728920e3007ab127496be3c568a04d7c7243fe4c754a54462bcd819e2301e317"
+      "payout_txid": "728920e3007ab127496be3c568a04d7c7243fe4c754a54462bcd819e2301e317",
+      "winner_note_tx": "756e9defbf3c6d3591e5d2a6087ae0b932d0925aacdf8d30909f2f8795912c53"
     },
     {
       "id": "lafayette",
@@ -60,7 +63,8 @@
       "answer": "hockey arch hospital bike horse love chicken ranch shop pink property coin",
       "salt": "cqgx-jc5y-48kq-uaue-ufa6-dvc4",
       "winner": "oncedegen",
-      "payout_txid": "835fd988a61bf6ef75871e4cfcfe6982369796869a97a96747bc812d01392044"
+      "payout_txid": "835fd988a61bf6ef75871e4cfcfe6982369796869a97a96747bc812d01392044",
+      "winner_note_tx": "35759d711c30cf065e500f2e36d415591ee5c79c90f04b4548dd7890a47b10f5"
     },
     {
       "id": "puzzle-5",
@@ -76,6 +80,7 @@
       "salt": "9png-be4w-3r6n-fbtv-kf29-cwhd",
       "winner": "schum-io",
       "payout_txid": "66844d19a18392abdb9d64546619aed23db1d517547cdf0df8046a8c5257b10e",
+      "winner_note_tx": "c5699d8006f662fbf3f2b4d9bf027e171e803913bae2bb26145e58b594dbd9ad",
       "maps_url": "https://www.google.com/maps/place/Orange+Beach,+AL"
     },
     {
