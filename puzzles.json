@@ -104,14 +104,14 @@
       "title": "Hidden until reveal day",
       "kind": "free",
       "prize": "About $50 in BTC",
-      "opens_at": "2026-12-05T15:00:00Z",
       "address": "bc1qytrawhjlh2kfhzesgyj6e748l0fpekz26spvj6",
       "fingerprint": "186ffdc2faab03160d14d30254a29b5e9fca568993498b3195aa680afaa733b7",
       "status": "upcoming",
       "answer": null,
       "salt": null,
       "winner": null,
-      "payout_txid": null
+      "payout_txid": null,
+      "opens": "After Puzzle 6 is solved (date to be announced)"
     },
     {
       "id": "puzzle-8",
@@ -120,16 +120,14 @@
       "kind": "paid",
       "prize": "$500 in BTC · $1,000 if 100 people play",
       "entry_price": "$10",
-      "sales_open_at": "2026-12-05T15:00:00Z",
-      "sales_close_at": "2026-12-12T12:00:00Z",
-      "opens_at": "2026-12-12T15:00:00Z",
       "address": "bc1qqn4ggckt0faqnxh835ec87h3h7vsw8hlja3k2k",
       "fingerprint": "259337789acc2e838dafb8a72906bca35fc728f3ccd5cabc883a21da735c9335",
       "status": "upcoming",
       "answer": null,
       "salt": null,
       "winner": null,
-      "payout_txid": null
+      "payout_txid": null,
+      "opens": "After Puzzle 7 is solved (date to be announced)"
     },
     {
       "id": "puzzle-9",
