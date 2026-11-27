@@ -1,5 +1,7 @@
 # ProofOfSolve
 
+[![ProofOfSolve: Street View seed hunts: Written in Bitcoin](https://writteninbitcoin.com/badge/puzzle/proofofsolve.svg)](https://writteninbitcoin.com/en/puzzles/proofofsolve)
+
 Bitcoin puzzle hunts you solve with Google Street View: **[proofofsolve.com](https://proofofsolve.com)**
 
 Each puzzle has 12 clues. Each clue leads to a spot on Google Street View that gives one word from the BIP39 English list. The word may be written there, or it may be the name of something you see. The 12 words, in clue order, are the seed for a real Bitcoin wallet, and the first correct answer sent on the site wins it.
@@ -12,8 +14,8 @@ This page is the public record. It lists every prize wallet and answer fingerpri
 
 **Coming up** (tentative: the next puzzle opens only after the current one is solved, so if a puzzle is still unsolved, the dates below move back):
 
-- **Puzzle 7** (free, about $50 in bitcoin) opens **Saturday, December 5, 2026 at 9:00 AM Central (15:00 UTC)**. Its daily hunt runs December 1 to 4.
-- **Puzzle 8** is the first paid puzzle: $500 in bitcoin, or $1,000 if 100 people play. It opens **Saturday, December 12, 2026 at 9:00 AM Central (15:00 UTC)**. Entries cost $10 in bitcoin, one per person, and are on sale from **December 5, 2026 at 9:00 AM Central (15:00 UTC)** until **December 12, 2026 at 6:00 AM Central (12:00 UTC)**.
+- **Puzzle 7** (free, about $50 in bitcoin) opens after Puzzle 6 is solved. Its date is announced then, and its daily hunt runs the Tuesday to Friday before it.
+- **Puzzle 8** is the first paid puzzle: $500 in bitcoin, or $1,000 if 100 people play. It opens the week after Puzzle 7, once Puzzle 7 is solved. Entries cost $10 in bitcoin, one per person, and go on sale the day Puzzle 7 opens, until 6:00 AM Central on the morning Puzzle 8 opens. Exact dates are announced then.
 - After Puzzle 8, puzzles open once a month, on the first Saturday at 9:00 AM Central (15:00 UTC): **Puzzle 9 on January 2, 2027**, **Puzzle 10 on February 6, 2027** and **Puzzle 11 on March 6, 2027**. Their prize wallets and fingerprints are added here before they open.
 
 **Done so far:** Puzzles 1 and 2 opened Saturday, October 24, 2026 at 6:00 AM Central (11:00 UTC). Puzzles 3, 4 and 5 opened on the next Saturdays at 9:00 AM Central (October 31, November 7 and November 14). Puzzles 1 to 3 carried about $125 in bitcoin each, and Puzzles 4 and 5 about $75 each. All five are solved and paid out.
@@ -28,8 +30,8 @@ A puzzle's place stays hidden until its answer is revealed. Click an address to 
 | 4 | Lafayette, Louisiana | Free | [bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa](https://mempool.space/address/bc1qhkzhl98n8uf59an6zgvy9287q547h2aceycrfa) | **Solved** Nov 7 · [paid out](https://mempool.space/tx/835fd988a61bf6ef75871e4cfcfe6982369796869a97a96747bc812d01392044) |
 | 5 | Orange Beach, Alabama | Free | [bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k](https://mempool.space/address/bc1qgzuefkmgr0x4usv5gwyyr7rk78tyz9vxjrpt0k) | **Solved** Nov 17 · [paid out](https://mempool.space/tx/66844d19a18392abdb9d64546619aed23db1d517547cdf0df8046a8c5257b10e) |
 | 6 | Hidden until reveal day | Free | [bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z](https://mempool.space/address/bc1qr9w0wdd2nqpmgdwe2x7nm82kl9aqyusnru8y2z) | **Open now** (since Nov 21) |
-| 7 | Hidden until reveal day | Free | [bc1qytrawhjlh2kfhzesgyj6e748l0fpekz26spvj6](https://mempool.space/address/bc1qytrawhjlh2kfhzesgyj6e748l0fpekz26spvj6) | Opens Dec 5 |
-| 8 | Hidden until reveal day | Paid ($10) | [bc1qqn4ggckt0faqnxh835ec87h3h7vsw8hlja3k2k](https://mempool.space/address/bc1qqn4ggckt0faqnxh835ec87h3h7vsw8hlja3k2k) | Opens Dec 12 (entries from Dec 5) |
+| 7 | Hidden until reveal day | Free | [bc1qytrawhjlh2kfhzesgyj6e748l0fpekz26spvj6](https://mempool.space/address/bc1qytrawhjlh2kfhzesgyj6e748l0fpekz26spvj6) | After Puzzle 6 is solved |
+| 8 | Hidden until reveal day | Paid ($10) | [bc1qqn4ggckt0faqnxh835ec87h3h7vsw8hlja3k2k](https://mempool.space/address/bc1qqn4ggckt0faqnxh835ec87h3h7vsw8hlja3k2k) | After Puzzle 7 is solved |
 | 9 | Hidden until reveal day | To be announced | Posted before it opens | Opens Jan 2, 2027 |
 | 10 | Hidden until reveal day | To be announced | Posted before it opens | Opens Feb 6, 2027 |
 | 11 | Hidden until reveal day | To be announced | Posted before it opens | Opens Mar 6, 2027 |
